@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: 'Libre Caslon Text', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.faq{
+  padding-top:100px ;
+  padding-bottom: 150px;
+}
+.faq .accordion{
+  --bs-accordion-bg: #f1faee;
+}

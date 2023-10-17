@@ -1,0 +1,16 @@
+.carousel__container {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  /* gives us the illusion of a "centered" slide */
+  .carousel__slider {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+  
+  /* gives us the illusion of spaces between the slides */
+  .carousel__inner-slide {
+    width: calc(100% - 10px);
+    height: calc(100% - 10px);
+  }
