@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec234a02.css",
+    "main.js": "/static/js/main.8ead672f.js",
+    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
+    "static/media/d.png": "/static/media/d.6e547953447ef7efdea2.png",
+    "static/media/mesjid.png": "/static/media/mesjid.0e061b72736b87a3e1a2.png",
+    "static/media/b.png": "/static/media/b.c82ba69b84531e448711.png",
+    "static/media/a.png": "/static/media/a.e5c7f501b799310dd63f.png",
+    "static/media/c.png": "/static/media/c.974d57ddc4393a8b0978.png",
+    "static/media/ff.png": "/static/media/ff.ed1abd5c166a286d2236.png",
+    "static/media/e.png": "/static/media/e.b7ad1da5f832127a2b80.png",
+    "static/media/cc.png": "/static/media/cc.7f124782d1f42afe20a1.png",
+    "static/media/ee.png": "/static/media/ee.720a109e3bb4cec8f6c1.png",
+    "static/media/f.png": "/static/media/f.ca035a4f6c1388bb3616.png",
+    "static/media/dd.png": "/static/media/dd.022774c387a80ed2b9c0.png",
+    "static/media/g.png": "/static/media/g.4e25e3bfbf55c37306a4.png",
+    "static/media/aa.png": "/static/media/aa.63e672c70bf1a107b428.png",
+    "static/media/bb.png": "/static/media/bb.af6bf364a43520b78086.png",
+    "static/media/hh.png": "/static/media/hh.1f81c9afd8a9f4df3aab.png",
+    "static/media/gg.png": "/static/media/gg.bc2a42d2986634d459ed.png",
+    "static/media/22.jpg": "/static/media/22.05e0d82078dbe38f73bd.jpg",
+    "static/media/23.jpg": "/static/media/23.c9fc4cd641d58f1b3c1d.jpg",
+    "static/media/12.jpg": "/static/media/12.99cc2d38efe601118631.jpg",
+    "index.html": "/index.html",
+    "main.ec234a02.css.map": "/static/css/main.ec234a02.css.map",
+    "main.8ead672f.js.map": "/static/js/main.8ead672f.js.map",
+    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec234a02.css",
+    "static/js/main.8ead672f.js"
+  ]
+}
